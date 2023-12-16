@@ -1,6 +1,6 @@
 require('mini.animate').setup({
     scroll={
-        enable=true
+        enable=false
     },
     open={
         enable=false
