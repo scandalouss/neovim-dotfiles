@@ -2,7 +2,7 @@
 --THAT AREN'T LUA GO HERE
 
 --theme stuff
-vim.cmd("colorscheme sleepyhollow")
+vim.cmd("colorscheme seashells")
 vim.cmd("syntax on")
 vim.cmd("highlight Normal guibg=none")
 vim.cmd("highlight Normal ctermbg=none")
