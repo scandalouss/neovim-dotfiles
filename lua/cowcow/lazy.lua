@@ -39,6 +39,7 @@ require("lazy").setup({
 
     --animations
     "echasnovski/mini.animate",
+    "karb94/neoscroll.nvim", --neoscroll cause mini.animate scroll sux
 
     --LSP, autocorrect features for code
     "williamboman/mason.nvim",
