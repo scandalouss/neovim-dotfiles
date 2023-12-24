@@ -2,7 +2,7 @@
 --THAT AREN'T LUA GO HERE
 
 --theme stuff
-vim.cmd("colorscheme seashells") -- color scheme
+vim.cmd("colorscheme sleepyhollow") -- color scheme
 vim.cmd("syntax on") --syntax highlighting
 
     --these 4 lines are for a transparent background
