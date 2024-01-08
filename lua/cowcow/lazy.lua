@@ -53,4 +53,8 @@ require("lazy").setup({
     --debugger
     "mfussenegger/nvim-dap",
     "rcarriga/nvim-dap-ui",
+
+    --discord rpc support cause i'm a nerd
+    "andweeb/presence.nvim",
+
 })
