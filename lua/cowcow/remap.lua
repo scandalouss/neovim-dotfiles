@@ -7,5 +7,9 @@ vim.keymap.set("n","<leader>O","O<Esc>") --above
 
 --nvim tree remaps
 local nvimtree=require("nvim-tree.api")
-vim.keymap.set("n", "<leader>d", vim.cmd.NvimTreeToggle)
+vim.keymap.set("n", "<leader>e", vim.cmd.NvimTreeToggle)
+
+--debugger
+vim.keymap.set("n", "<leader>db",vim.cmd.DapToggleBreakpoint)
+vim.keymap.set("n","<leader>dr",vim.cmd.DapContinue)
 

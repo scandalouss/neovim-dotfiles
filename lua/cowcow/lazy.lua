@@ -28,6 +28,10 @@ require("lazy").setup({
     --better highlighting
     "nvim-treesitter/nvim-treesitter",
 
+    --formatting nonsense for mason, settings are in lsp.lua
+    "jay-babu/mason-null-ls.nvim",
+    "nvimtools/none-ls.nvim",
+
     --file finder/fuzzy finder/it finds shit
     {"nvim-telescope/telescope.nvim", tag="0.1.5", dependencies={"nvim-lua/plenary.nvim"}},
 
@@ -51,6 +55,7 @@ require("lazy").setup({
     "L3MON4D3/LuaSnip",
 
     --debugger
+    "jay-babu/mason-nvim-dap.nvim",
     "mfussenegger/nvim-dap",
     "rcarriga/nvim-dap-ui",
 })
