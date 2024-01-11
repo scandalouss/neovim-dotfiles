@@ -12,4 +12,3 @@ vim.keymap.set("n", "<leader>e", vim.cmd.NvimTreeToggle)
 --debugger
 vim.keymap.set("n", "<leader>db",vim.cmd.DapToggleBreakpoint)
 vim.keymap.set("n","<leader>dr",vim.cmd.DapContinue)
-

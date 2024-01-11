@@ -62,4 +62,6 @@ require("lazy").setup({
     --discord rpc support cause i'm a nerd
     "andweeb/presence.nvim",
 
+    --colortheme helper thing
+    "rktjmp/lush.nvim",
 })

@@ -7,7 +7,7 @@ mason_dap.setup({
     ensure_installed={
         "codelldb",
         "python",
-        "javadbg", --shit don't work, idk why
+--        "javadbg", --shit don't work, idk why
         "js",
         "bash",
         "go",
