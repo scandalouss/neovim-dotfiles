@@ -2,7 +2,7 @@
 --THAT AREN'T LUA GO HERE
 
 --theme stuff
-vim.cmd("colorscheme sea-anemone") -- color scheme
+vim.cmd("colorscheme crustacean") -- color scheme
 vim.cmd("syntax on") --syntax highlighting
 
     --these 4 lines are for a transparent background
@@ -28,3 +28,4 @@ vim.opt.updatetime=50 --update F A S T E R
 vim.opt.lazyredraw=true --makes redrawing better? dunno about this one
 vim.opt.splitbelow=true --when making a new horizontal split, split it below
 vim.api.nvim_set_option("clipboard","unnamed") --use system clipboard
+vim.opt.mouse="" -- TURN OFF THE MOUSE, DON'T EVEN THINK ABOUT IT MFER

@@ -64,4 +64,7 @@ require("lazy").setup({
 
     --colortheme helper thing
     "rktjmp/lush.nvim",
+
+    --highlight colors
+    "echasnovski/mini.hipatterns"
 })
