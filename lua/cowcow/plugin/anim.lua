@@ -3,7 +3,7 @@ local neoscroll=require("neoscroll")
 
 minianim.setup({
     scroll={
-        enable=false
+        enable=true
     },
     open={
         enable=false

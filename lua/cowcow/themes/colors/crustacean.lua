@@ -1,5 +1,3 @@
---crustacean theme by david king
---modified navy-and-ivory theme by hal
 local name='crustacean'
 local colors={
     fg1='#fcfcfc',
@@ -31,4 +29,4 @@ local colors={
         white='#fffff4',
     },
 }
-return colors
+return colors,name

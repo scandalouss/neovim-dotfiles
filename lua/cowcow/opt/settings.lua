@@ -2,7 +2,6 @@
 --THAT AREN'T LUA GO HERE
 
 --theme stuff
-vim.cmd("colorscheme crustacean") -- color scheme
 vim.cmd("syntax on") --syntax highlighting
 
     --these 4 lines are for a transparent background
