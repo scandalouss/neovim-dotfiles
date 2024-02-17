@@ -1,7 +1,7 @@
 local M={}
 
 local defaults={
-    palette='sea-anemone',
+    palette='crustacean',
     highlights={},
 }
 
